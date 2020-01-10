@@ -58,6 +58,10 @@
      <Compile Include="Assets\ex01\Scripts\CubeSpawner.cs" />
      <Compile Include="Assets\ex02\Scripts\ball_controller.cs" />
      <Compile Include="Assets\ex02\Scripts\club_controller.cs" />
+     <Compile Include="Assets\ex03\Scripts\Bird.cs" />
+     <Compile Include="Assets\ex03\Scripts\Pipe.cs" />
+     <Compile Include="Assets\ex04\Scripts\Player.cs" />
+     <Compile Include="Assets\PongBall.cs" />
      <Compile Include="Assets\scr.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/adelorme/Cursus/E42_unity/d00/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
